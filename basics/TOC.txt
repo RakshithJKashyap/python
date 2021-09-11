@@ -1,0 +1,17 @@
+Day- 03/02/2021
+	1.print function.py
+	2.add function.py
+	3.operations.py
+	4.prime number .py 
+Day- 04/02/2021
+	1.Simple Interest.py
+	2.To find Quadrant.py
+	3.Count vowels and constants.py
+	4.Palindrome.py
+Day- 06/02/2021
+	1.Current day.py
+	2.Current time.py
+Day- 07/02/2021	
+	1.time difference.py
+	2.date difference.py
+
